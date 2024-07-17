@@ -10,7 +10,9 @@
 
 ``` stop:- ./mondis ```
 
-``` airodump-ng -i wlan0 -d CC:2D:21:5A:25:60 ```
+``` airodump-ng wlan0 ```
+
+``` airodump-ng wlan0 -d CC:2D:21:5A:25:60 ```
 
 ### display show to use this
 
