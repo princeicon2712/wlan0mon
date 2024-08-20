@@ -32,3 +32,6 @@ path:---- cd /usr/local/bin
 
 https://github.com/R1punk/wlan0mon
 
+## aircrack-ng termux fix
+
+https://github.com/pitube08642/aircrack-ng-for-termux.git
